@@ -1,7 +1,6 @@
 # Minimal dotfiles
-My minimal dotfiles for ZSH Shell 
-
-It uses OhMyZsh + NeoVIM
+### TaTa
+My minimal dotfile setup that will make your heart sing with vim,git,zsh plugins and the clean neovimrc build. 
 
 ## Screenshot
 
