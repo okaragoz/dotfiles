@@ -1,4 +1,4 @@
-# dotfiles
+# Minimal dotfiles
 My minimal dotfiles for ZSH Shell 
 
 It uses OhMyZsh + NeoVIM
