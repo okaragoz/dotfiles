@@ -1,5 +1,7 @@
 # dotfiles
-My minimal dotfiles for ZSH Shell + NeoVIM
+My minimal dotfiles for ZSH Shell 
+
+It uses OhMyZsh + NeoVIM
 
 ## Screenshot
 
