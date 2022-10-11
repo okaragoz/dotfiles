@@ -1,2 +1,2 @@
 # dotfiles
- My personal dotfiles for minimal setup
+My minimal dotfiles for ZSH Shell + NeoVIM
