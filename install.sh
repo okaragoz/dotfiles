@@ -16,7 +16,7 @@ then
     git clone --depth=1 https://github.com/okaragoz/dotfiles.git "$HOME/tmp"
     cp -rf "$HOME/tmp/" "$HOME"
     rm -rf "$HOME/tmp/"
-    echo "Installing Personal Dotfiles for the first time"
+    echo "Installing minimal Dotfiles for the first time"
     fi
 else
 echo "Please install zsh shell first and run this script"
