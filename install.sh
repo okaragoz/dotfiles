@@ -12,11 +12,14 @@ then
     cp -rf "$HOME/tmp/" "$HOME"
     rm -rf "$HOME/tmp/"
     echo "OhmyZSH and Dotfiles are installed"
+    git clone --depth=1 https://github.com/tmux-plugins/tpm "$HOME/.tmux/plugins/tpm"
     else
     git clone --depth=1 https://github.com/okaragoz/dotfiles.git "$HOME/tmp"
     cp -rf "$HOME/tmp/" "$HOME"
     rm -rf "$HOME/tmp/"
     echo "Installing minimal Dotfiles for the first time"
+    git clone --depth=1 https://github.com/tmux-plugins/tpm "$HOME/.tmux/plugins/tpm"
+
     fi
 else
 echo "Please install zsh shell first and run this script"
